@@ -41,3 +41,34 @@ function squareSum(numbers){
 }
 ```
 ---
+### Work Experience 
+Toyota Land Cruiser 300     https://codepen.io/user21021984/pen/GRGLVwo
+
+---
+### Education History
+* **University:**
+    * Bachelor of finanse
+Taurida 'V. I. Vernadskiy' National University, Simferopol
+Year of Graduation: 2007
+* **Courses**
+    * Epam System
+IT Fundamentals for switchers
+03.2022
+  * Epam System
+IT Fundamentals Front End
+06.2022
+  * Google
+Microsoft Professional Program in IT
+https://www.coursera.org/account/accomplishments/certificate/7MTMW93SRSH4
+11.2022
+  * Epam System
+Diploma IT Marathon
+https://certificates.epam.com/certificates/3d604ab9-8a59-4184-babe-e1e4dcbe6095
+12.2022
+   * Coursera | Google
+The Bits and Bytes of Computer Networking
+https://www.coursera.org/account/accomplishments/certificate/AE4GVEZMWG2Y
+01.2023
+---
+### My Languages
+   English A2 (checked Epam System). Now I live in the Netherlands and attend various English courses.
